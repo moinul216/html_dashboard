@@ -59,7 +59,7 @@
   }
   
   .menu-toggle {
-    font-size: 24px;
+    font-size: 26px;
     cursor: pointer;
   }
   
@@ -67,7 +67,6 @@
     font-size: 18px;
   }
   
-  /* Content Section */
   .content {
     flex-grow: 1;
     padding: 20px;
@@ -75,6 +74,6 @@
   }
   
   .content h1 {
-    margin-bottom: 20px;
+    margin-bottom: 22px;
   }
   
